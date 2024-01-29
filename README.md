@@ -27,8 +27,8 @@ To enhance understanding and engagement, the project includes a real-time visual
 
 2. **Running the Project**:
    - Clone the repository: https://github.com/arashk7/QLearning-CartPole.git
-   - Navigate to the project directory: `cd your-repo-name`
-   - Run the script: `python cartpole.py`
+   - Navigate to the project directory: `cd QLearning-CartPole`
+   - Run the script: `python test_cartpole_Qlearning.py`
 
 3. **Training the Model**:
    - The model trains in real-time as the CartPole environment runs.
