@@ -17,7 +17,7 @@ To enhance understanding and engagement, the project includes a real-time visual
 
 ![CartPole Visualization](CartPole.gif)
 
-*The above screen recording demonstrates the CartPole environment in action, visualized using Dear PyGui.*
+*The above screen recording demonstrates the CartPole environment in action*
 
 ## Setup and Usage
 
