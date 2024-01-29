@@ -27,7 +27,7 @@ To enhance understanding and engagement, the project includes a real-time visual
    - Install required packages: `gym`, `torch`, `pytorch_lightning`, `numpy`, and `dearpygui`.
 
 2. **Running the Project**:
-   - Clone the repository: [`git clone https://github.com/your-username/your-repo-name.git`](https://github.com/arashk7/QLearning-CartPole.git)
+   - Clone the repository: https://github.com/arashk7/QLearning-CartPole.git
    - Navigate to the project directory: `cd your-repo-name`
    - Run the script: `python cartpole.py`
 
