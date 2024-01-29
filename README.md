@@ -14,7 +14,6 @@ To enhance understanding and engagement, the project includes a real-time visual
 - **Real-Time Visualization**: Dear PyGui is utilized to render the state of the CartPole environment, providing an intuitive visual feedback of the model's performance.
 - **OpenAI Gym Environment**: The CartPole environment from OpenAI Gym offers a standard, widely-used platform for reinforcement learning tasks.
 
-## Screen Recording
 
 ![CartPole Visualization](CartPole.gif)
 
